@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0AFFEF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abdullah+Ismail;Flutter+Developer;Mobile+App+Enthusiast;Always+Learning">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0AFFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abdullah+Ismail;Flutter+Developer;Mobile+App+Enthusiast;Always+Learning">
 </p>
 
-<h3 align="center">A passionate Flutter & frontend developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 ---
 
