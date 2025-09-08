@@ -49,16 +49,14 @@
 
 ## 🌐 Contact Me  
 
-<p align="center">
-  <a href="mailto:abdallahismail296812@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" style="margin: 0 15px;"/>
-  </a>
- </p> 
- <p align="center" >
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdallahismail296812@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" style="margin: 0 15px;"/>
+</a>
   <a href="https://linkedin.com/in/abdullah-ismail-7711a1380/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin: 0 15px;"/>
   </a>
-</p>
+
 
 
 
