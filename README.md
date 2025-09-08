@@ -8,11 +8,14 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/abdullah-ismail-7711a1380/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="blank">
+  <a href="mailto:abdallahismail296812@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+  </a>
+  <a href="https://github.com/3bdullah-ismail" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
   </a>
 </p>
 
