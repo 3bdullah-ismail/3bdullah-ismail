@@ -51,18 +51,19 @@
 
 <p align="center">
   <a href="mailto:youremail@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" style="margin: 0 15px;"/>
   </a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin: 0 15px;"/>
   </a>
   <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40px" style="margin: 0 15px;"/>
   </a>
   <a href="https://facebook.com/YOUR-FACEBOOK">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" style="margin: 0 15px;"/>
   </a>
 </p>
+
 
 
 ---
