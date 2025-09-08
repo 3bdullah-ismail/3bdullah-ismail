@@ -2,11 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0AFFEF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abdullah+Ismail;Flutter+Developer;Mobile+App+Enthusiast;Always+Learning">
 </p>
 
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+---
+
+## 🎓 About Me
+- 🎓 4th year Computer Science student  
+- 🚀 Passionate about Flutter Development  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullah-ismail-7711a1380/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
@@ -21,7 +25,7 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+## 🛠 Languages and Tools:
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -38,4 +42,26 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3bdullah-ismail&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdullah-ismail&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3bdullah-ismail&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3bdullah-ismail&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views" />
 </p>
