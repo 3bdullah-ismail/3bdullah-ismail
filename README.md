@@ -10,20 +10,6 @@
 
 ---
 
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdullah-ismail-7711a1380/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="mailto:abdallahismail296812@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
-  </a>
-  <a href="https://github.com/3bdullah-ismail" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
-  </a>
-</p>
-
----
 
 ## 🛠 Languages and Tools:
 <p align="left">
@@ -60,7 +46,20 @@
 </p>
 
 ---
+## 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah-ismail-7711a1380/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="mailto:abdallahismail296812@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="40" width="40" />
+  </a>
+  <a href="https://github.com/3bdullah-ismail" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+  </a>
+</p>
 
+---
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=3bdullah-ismail&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views" />
