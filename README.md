@@ -46,19 +46,14 @@
 </p>
 
 ---
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdullah-ismail-7711a1380/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
-  </a>
-  <a href="mailto:abdallahismail296812@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
-  </a>
-  <a href="https://github.com/3bdullah-ismail" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="40" width="40" />
-  </a>
-</p>
+## 🌐 Contact Me
 
+<p align="center">
+  <a href="mailto:youremail@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40px"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px"/></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40px"/></a>
+  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="40px"/></a>
+</p>
 ---
 ## 👀 Profile Views
 <p align="center">
